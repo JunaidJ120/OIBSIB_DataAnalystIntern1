@@ -5,6 +5,7 @@ Idea: Exploratory Data Analysis (EDA) on Retail Sales Data
 Description:
 The goal is to perform exploratory data analysis (EDA) to uncover patterns, trends, and insights that can
 help the retail business make informed decisions.
+
 Objectives:
 Data Loading and Cleaning: Load the retail sales dataset.
 Descriptive Statistics: Calculate basic statistics (mean, median, mode, standard deviation).
