@@ -22,6 +22,7 @@ The aim of this data analytics project is to perform customer segmentation analy
 commerce company. By analyzing customer behavior and purchase patterns, the goal is to
 group customers into distinct segments. This segmentation can inform targeted marketing
 strategies, improve customer satisfaction, and enhance overall business strategies.
+
 Objectives:
 Data Collection: Obtain a dataset containing customer information, purchase history, and
 relevant data.
@@ -44,6 +45,7 @@ Data Cleaning is the process of fixing or removing incorrect, corrupted, duplica
 data within a dataset. Messy data leads to unreliable outcomes. Cleaning data is an essential
 part of data analysis, and demonstrating your data cleaning skills is key to landing a job. Here
 are some projects to test out your data cleaning skills
+
 Objectives:
 Data Integrity: Ensuring the accuracy, consistency, and reliability of data throughout the
 cleaning process.
@@ -63,6 +65,7 @@ The objective of this project is to build a predictive model using linear regres
 numerical outcome based on a dataset with relevant features. Linear regression is a
 fundamental machine learning algorithm, and this project provides hands-on experience in
 developing, evaluating, and interpreting a predictive model.
+
 Objectives:
 Data Collection: Obtain a dataset with numerical features and a target variable for
 prediction.
@@ -84,6 +87,7 @@ The focus is on predicting the quality of wine based on its chemical characteris
 real-world application of machine learning in the context of viticulture. The dataset
 encompasses diverse chemical attributes, including density and acidity, which serve as the
 features for three distinct classifier models.
+
 Objectives:
 Classifier Models: Utilizing Random Forest, Stochastic Gradient Descent, and Support
 Vector Classifier (SVC) for wine quality prediction.
@@ -100,6 +104,7 @@ Description:
 Clean, categorize, and visualize Google Play Store data to understand app market dynamics.
 Gain in-depth insights into the Android app market by leveraging data analytics, visualization,
 and enhanced interpretation skills.
+
 Obectives:
 Data Preparation:Clean and correct data types for accuracy.
 Category Exploration:Investigate app distribution across categories.
